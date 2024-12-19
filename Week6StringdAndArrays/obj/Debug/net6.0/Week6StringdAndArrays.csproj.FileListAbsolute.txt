@@ -1,0 +1,14 @@
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\Week6StringdAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\Week6StringdAndArrays.AssemblyInfoInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\Week6StringdAndArrays.AssemblyInfo.cs
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\Week6StringdAndArrays.csproj.CoreCompileInputs.cache
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\bin\Debug\net6.0\Week6StringdAndArrays.exe
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\bin\Debug\net6.0\Week6StringdAndArrays.deps.json
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\bin\Debug\net6.0\Week6StringdAndArrays.runtimeconfig.json
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\bin\Debug\net6.0\Week6StringdAndArrays.dll
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\bin\Debug\net6.0\Week6StringdAndArrays.pdb
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\Week6StringdAndArrays.dll
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\refint\Week6StringdAndArrays.dll
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\Week6StringdAndArrays.pdb
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\Week6StringdAndArrays.genruntimeconfig.cache
+C:\Users\Mattias2\Desktop\Marjana\Week6StringdAndArrays\Week6StringdAndArrays\obj\Debug\net6.0\ref\Week6StringdAndArrays.dll
